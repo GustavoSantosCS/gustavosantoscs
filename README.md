@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
 <h3 align="center">Um desenvolvedor Full Stack JavaScript</h3>
 
-  - 🔭 I’m currently working on **Escritório Modelo de Pesquisa e Desenvolvimento de Software / UDESC**
+  - 🔭 I’m currently working on **Intelie**
 
   - 🌱 I’m currently learning **NodeJS, React, React Native, Next**
 
