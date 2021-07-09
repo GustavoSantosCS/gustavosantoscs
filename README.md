@@ -7,7 +7,7 @@
 
   - 👨‍💻 All of my projects are available at [https://github.com/GustavoSantosCS](https://github.com/GustavoSantosCS)
 
-  - 💬 Ask me about **JavaScript, NodeJs, Architecture**
+  - 💬 Ask me about **JavaScript, NodeJs, React, React Native, Architecture e Java**
 
   - 📫 How to reach me **gustavosantos.development@gmail.com**
 
