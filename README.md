@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
-<h3 align="center">Um desenvolvedor Full Stack JavaScript</h3>
+<h3 align="center">Um desenvolvedor Full Stack Java e JavaScript</h3>
 
   - 🔭 I’m currently working on **Intelie**
 
